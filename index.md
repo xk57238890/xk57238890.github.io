@@ -1,7 +1,11 @@
 # 徐康 博士 
-<img src="/homepage.jpeg" height="480" width="240"/> 
+
+::: right
+  <img src="/homepage.jpeg" height="480" width="240"/> 
+:::
 
 ## 南京邮电大学计算机学院、软件学院、网络空间安全学院（大数据研究院）
+
 办公地点：南京邮电大学计算机学科楼543
 
 邮箱：kxu@njupt.edu.cn
@@ -11,7 +15,7 @@
 学术主页：
 [谷歌学术](https://scholar.google.com/citations?user=N1UUDi0AAAAJ&hl=zh-CN)、[DBLP](https://dblp.org/pid/68/9805-1.html)
 
-**～～欢迎南京邮电大学本科生同学参与我的课题研究，做点有意思的小事情。～～**
+**～欢迎南京邮电大学本科生同学参与我的课题研究，做点有意思的事情。～**
 
 
 # 个人简介
@@ -28,31 +32,29 @@
 
 高水平师资项目，校级项目，知识图谱在社交媒体文本立场分析中的应用研究，项目负责人，项目经费5万元。
 
-
-
 # 论文
 
-1. Kang Xu, Guilin Qi*, Junheng Huang, Tianxing Wu, Xuefeng Fu; Detecting Bursts in Sentiment-aware Topics from Social Media[J]. Knowledge-Based Systems, 2018, 141: 44-54.
+1. **Kang Xu**, Guilin Qi*, Junheng Huang, Tianxing Wu, Xuefeng Fu; Detecting Bursts in Sentiment-aware Topics from Social Media[J]. Knowledge-Based Systems, 2018, 141: 44-54.
 
-2. Kang Xu*; Guilin Qi; Junheng Huang; Tianxing Wu; A Joint Model for Sentiment-aware Topic Detection on Social Media[C]//Proceedings of the Twenty-second European Conference on Artificial Intelligence. IOS Press, 2016: 338-346.
+2. **Kang Xu** *; Guilin Qi; Junheng Huang; Tianxing Wu; A Joint Model for Sentiment-aware Topic Detection on Social Media[C]//Proceedings of the Twenty-second European Conference on Artificial Intelligence. IOS Press, 2016: 338-346.
 
-3. Kang Xu*, Junheng Huang, Tianxing Wu; A Sentiment and Topic Model with Timeslice, User and Hashtag for Posts on Social Media[C]//China Conference on Knowledge Graph and Semantic Computing. Springer, Singapore, 2017: 59-65.
+3. **Kang Xu** *, Junheng Huang, Tianxing Wu; A Sentiment and Topic Model with Timeslice, User and Hashtag for Posts on Social Media[C]//China Conference on Knowledge Graph and Semantic Computing. Springer, Singapore, 2017: 59-65.
 
-4. Kang Xu*, Junheng Huang, Guilin Qi; A New Sentiment and Topic Model for Short Texts on Social Media[C]//Joint International Semantic Technology Conference. Springer, Cham, 2017: 183-198.
+4. **Kang Xu** *, Junheng Huang, Guilin Qi; A New Sentiment and Topic Model for Short Texts on Social Media[C]//Joint International Semantic Technology Conference. Springer, Cham, 2017: 183-198.
 
-5. Kang Xu, Guilin Qi*, Junheng Huang, Tianxing Wu; Incorporating Wikipedia Concepts and Categories as Prior Knowledge into Topic Models[J]. Intelligent Data Analysis, 2017, 21(2): 443-461.
+5. **Kang Xu**, Guilin Qi*, Junheng Huang, Tianxing Wu; Incorporating Wikipedia Concepts and Categories as Prior Knowledge into Topic Models[J]. Intelligent Data Analysis, 2017, 21(2): 443-461.
 
-6. Kang Xu*, Feng Liu, Tianxing Wu, Sheng Bi, Guilin Qi. A Fast and Effective Framework for Lifelong Topic Model with Self-learning Knowledge[M]//Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data. Springer, Cham, 2017: 147-158.
+6. **Kang Xu** *, Feng Liu, Tianxing Wu, Sheng Bi, Guilin Qi. A Fast and Effective Framework for Lifelong Topic Model with Self-learning Knowledge[M]//Chinese Computational Linguistics and Natural Language Processing Based on Naturally Annotated Big Data. Springer, Cham, 2017: 147-158.
 
-7. Ibrahim Hussein Musa, Kang Xu*, Feng liu, Ibrahim Zamit, Waheed Ahmed Abro, Guilin Qi; A Cross-lingual Sentiment Topic Model Evolution over Time[J]. Intelligent Data Analysis, 2020, 24(2): 253-266.
+7. Ibrahim Hussein Musa, **Kang Xu** *, Feng liu, Ibrahim Zamit, Waheed Ahmed Abro, Guilin Qi; A Cross-lingual Sentiment Topic Model Evolution over Time[J]. Intelligent Data Analysis, 2020, 24(2): 253-266.
 
-8. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, Kang Xu, Huan Gao; Fine-grained Image Classification by Visual-Semantic Embedding[C]//Proceedings of the 27th International Joint Conference on Artificial Intelligence. 2018: 1043-1049.
+8. Huapeng Xu, Guilin Qi, Jingjing Li, Meng Wang, **Kang Xu**, Huan Gao; Fine-grained Image Classification by Visual-Semantic Embedding[C]//Proceedings of the 27th International Joint Conference on Artificial Intelligence. 2018: 1043-1049.
 
-9. Tianxing Wu, Lei Zhang, Guilin Qi, Xuan Cui, Kang Xu; Encoding Category Correlations into Bilingual Topic Modeling for Cross-lingual Taxonomy Alignment[C]//International Semantic Web Conference. Springer, Cham, 2017: 728-744.
+9. Tianxing Wu, Lei Zhang, Guilin Qi, Xuan Cui, **Kang Xu**; Encoding Category Correlations into Bilingual Topic Modeling for Cross-lingual Taxonomy Alignment[C]//International Semantic Web Conference. Springer, Cham, 2017: 728-744.
 
-10. Tianxing Wu, Guilin Qi, Haofen Wang, Kang Xu, Xuan Cui; Cross-lingual Taxonomy Alignment with Bilingual Biterm Topic Model[C]//Thirtieth AAAI Conference on Artificial Intelligence. 2016.
+10. Tianxing Wu, Guilin Qi, Haofen Wang, **Kang Xu**, Xuan Cui; Cross-lingual Taxonomy Alignment with Bilingual Biterm Topic Model[C]//Thirtieth AAAI Conference on Artificial Intelligence. 2016.
 
-11. Kang Xu, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation, Under Review.
+11. **Kang Xu** *, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation, Under Review.
 
 # 专利
 
@@ -86,5 +88,6 @@
 - CCKS、NLPCC、CCL 等国内会议审稿人
 
 - WWWJ、KBS、DSS 等期刊审稿人
+
 
 
