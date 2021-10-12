@@ -1,22 +1,14 @@
 # 徐康 博士 
 
 ## 南京邮电大学计算机学院、软件学院、网络空间安全学院（大数据研究院）
-
-<table>
- <tr>
-   <td><right><img src="/homepage.jpeg" width="20%"/></right></td>
-   <td>
-   办公地点：南京邮电大学计算机学科楼543            
+<img src="/kang.jpeg" width="20%"/>
+办公地点：南京邮电大学计算机学科楼543            
      
-   邮箱：kxu@njupt.edu.cn
+邮箱：kxu@njupt.edu.cn
 
-   主讲课程：《编译原理》、《人工智能》
+主讲课程：《编译原理》、《人工智能》
 
-   学术主页：[谷歌学术](https://scholar.google.com/citations?user=N1UUDi0AAAAJ&hl=zh-CN)、[DBLP](https://dblp.org/pid/68/9805-1.html)
-   </td>
- </tr>
-</table>
-
+学术主页：[谷歌学术](https://scholar.google.com/citations?user=N1UUDi0AAAAJ&hl=zh-CN)、[DBLP](https://dblp.org/pid/68/9805-1.html)
 
 **～欢迎南京邮电大学本科生同学参与我的课题研究，做点有意思的事情。～**
 
