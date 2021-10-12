@@ -1,7 +1,7 @@
 # 徐康 博士 
 
 ## 南京邮电大学计算机学院、软件学院、网络空间安全学院（大数据研究院）
-<img align="right" src="/kang.jpeg" width="16%"/>
+<img align="right" src="/kang.jpeg" width="20%"/>
 办公地点：南京邮电大学计算机学科楼543            
      
 邮箱：kxu@njupt.edu.cn，xk57238890@163.com
