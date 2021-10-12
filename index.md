@@ -4,7 +4,7 @@
 <img align="right" src="/kang.jpeg" width="40%"/>
 办公地点：南京邮电大学计算机学科楼543            
      
-邮箱：kxu@njupt.edu.cn，xk57238890@163.com
+邮箱：kxu@njupt.edu.cn
 
 主讲课程：《编译原理》、《人工智能》
 
