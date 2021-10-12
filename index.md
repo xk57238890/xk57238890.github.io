@@ -7,6 +7,9 @@
 
 主讲课程：《编译原理》、《人工智能》
 
+学术主页：
+[谷歌学术](https://scholar.google.com/citations?user=N1UUDi0AAAAJ&hl=zh-CN)、[DBLP](https://dblp.org/pid/68/9805-1.html)
+
 **～～欢迎南京邮电大学本科生同学参与我的课题研究，做点有意思的小事情。～～**
 
 
