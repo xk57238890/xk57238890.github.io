@@ -1,8 +1,6 @@
 # 徐康 博士 
 
-::: right
-  <img src="/homepage.jpeg" height="480" width="240"/> 
-:::
+<img src="/homepage.jpeg" height="480" width="240"/> 
 
 ## 南京邮电大学计算机学院、软件学院、网络空间安全学院（大数据研究院）
 
