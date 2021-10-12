@@ -1,8 +1,8 @@
 # 徐康 讲师 
+<img src="/homepage.jpeg" width="180" height="300">
 ## 南京邮电大学计算机学院、软件学院、网络空间安全学院（大数据研究院）
 
 
-<img src="/homepage.jpeg" width="160" height="320">
 
 办公地点：南京邮电大学计算机学科楼543
 
