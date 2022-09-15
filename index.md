@@ -21,11 +21,13 @@
 
 # 科研项目
 
-南瑞集团国家重点实验室开放课题，电网调度自动化系统AIOPS智能运维技术研究，项目实际负责人，项目经费46万。
+国家自然基金青年项目，知识驱动的神经主题模型方法研究，项目负责人，项目经费30万。
 
 横向课题，南京新格视讯信息科技有限公司，多模态知识图谱构建技术服务，项目负责人，项目经费10万。
 
 横向课题，无锡九方科技有限公司，知识图谱构建技术服务，项目负责人，项目经费2.5万。
+
+南瑞集团国家重点实验室开放课题，电网调度自动化系统AIOPS智能运维技术研究，项目实际负责人，项目经费46万。
 
 高水平师资项目，校级项目，知识图谱在社交媒体文本立场分析中的应用研究，项目负责人，项目经费5万元。
 
@@ -51,7 +53,9 @@
 
 10. Tianxing Wu, Guilin Qi, Haofen Wang, **Kang Xu**, Xuan Cui; Cross-lingual Taxonomy Alignment with Bilingual Biterm Topic Model[C]//Thirtieth AAAI Conference on Artificial Intelligence. 2016.
 
-11. **Kang Xu** *, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation, Under Review.
+11. **Kang Xu**, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation, Big Data Research.
+
+12. Liyan Xu, **Kang Xu**, Yinchuan Qin, et al. TGAN-AD: Transformer-Based GAN for Anomaly Detection of Time Series Data[J]. Applied Sciences, 2022, 12(16): 8085. 
 
 # 专利
 
