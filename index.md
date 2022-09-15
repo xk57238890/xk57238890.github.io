@@ -53,7 +53,7 @@
 
 10. Tianxing Wu, Guilin Qi, Haofen Wang, **Kang Xu**, Xuan Cui; Cross-lingual Taxonomy Alignment with Bilingual Biterm Topic Model[C]//Thirtieth AAAI Conference on Artificial Intelligence. 2016.
 
-11. **Kang Xu**, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation, Big Data Research.
+11. **Kang Xu**, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation[J], 2022, Big Data Research.
 
 12. Liyan Xu, **Kang Xu**, Yinchuan Qin, et al. TGAN-AD: Transformer-Based GAN for Anomaly Detection of Time Series Data[J]. Applied Sciences, 2022, 12(16): 8085. 
 
