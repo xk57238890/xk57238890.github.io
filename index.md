@@ -2,7 +2,7 @@
 
 ## 南京邮电大学计算机学院、软件学院、网络空间安全学院（大数据研究院）
 <img align="right" src="/kang.jpeg" width="35%"/>
-办公地点：南京邮电大学仙林校区计算机学科楼543            
+办公地点：南京邮电大学仙林校区计算机学科楼535            
      
 邮箱：kxu@njupt.edu.cn
 
@@ -17,7 +17,7 @@
 
 # 个人简介
 
-徐康，南京溧水人，目前在南京邮电大学计算机学院、软件学院、网络空间安全学院讲师，并担任计算科学与技术系副主任。工作本科毕业于南京信息工程大学信息工程专业；硕士毕业于东华大学计算机技术专业，导师史有群教授；博士毕业于东南大学软件工程专业，导师[漆桂林教授](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm)。在职博士后合作导师为南瑞集团翟明玉博士。博士期间曾访问西班牙马德里理工大学和德国卡尔斯鲁厄理工学院。主要研究方向包括自然语言处理、知识图谱、智能运维中的异常检测和根因定位等。
+徐康，南京溧水人，目前在南京邮电大学计算机学院、软件学院、网络空间安全学院讲师，并担任数据科学与工程系副主任。工作本科毕业于南京信息工程大学信息工程专业；硕士毕业于东华大学计算机技术专业，导师史有群教授；博士毕业于东南大学软件工程专业，导师[漆桂林教授](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm)。在职博士后合作导师为南瑞集团翟明玉博士。博士期间曾访问西班牙马德里理工大学和德国卡尔斯鲁厄理工学院。主要研究方向包括自然语言处理、知识图谱、智能运维中的异常检测和根因定位等。
 
 # 科研项目
 
@@ -53,7 +53,7 @@
 
 10. Tianxing Wu, Guilin Qi, Haofen Wang, **Kang Xu**, Xuan Cui; Cross-lingual Taxonomy Alignment with Bilingual Biterm Topic Model[C]//Thirtieth AAAI Conference on Artificial Intelligence. 2016.
 
-11. **Kang Xu**, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation[J], 2022, Big Data Research.
+11. **Kang Xu**, Xiaoqiu Lu, Yuan-fang Li, Tongtong Wu, Guilin Qi, Ning Ye; Neural Topic Modeling with Deep Mutual Information Estimation[J], 2022, Big Data Research, 30.
 
 12. Liyan Xu, **Kang Xu**, Yinchuan Qin, et al. TGAN-AD: Transformer-Based GAN for Anomaly Detection of Time Series Data[J]. Applied Sciences, 2022, 12(16): 8085. 
 
@@ -61,7 +61,9 @@
 
 - **徐康**，李熠轩（本科生），刘海琦（本科生），张晓伟（本科生），叶宁，王汝传，一种基于网络拓扑及实时告警的故障根因定位方法，CN112181758A
 
-- **徐康**，赵杰（本科生），叶宁，王汝传，徐同宣（本科生），黄成豪（本科生），一种金融领域中文新闻标题情感分类方法，CN110297870A
+- **徐康**，赵杰（本科生），叶宁，王汝传，徐同宣（本科生），黄成豪（本科生），一种金融领域中文新闻标题情感分类方法，CN110297870A, 已授权
+
+- 徐丽燕，**徐康**，一种基于回归预测的KPI指标多元异常监测方法，CN113419934A，已授权
 
 
 # 获奖
@@ -71,6 +73,8 @@
 
 - 作为《编译原理》课程组教师南京邮电大学首届“思政课程”与“课程思政”教学竞赛二等奖。
 
+- 2020-2021年度校“三育人”先进个人
+
 # 指导学生
 
 - STITP，赵杰、黄成豪、徐同宣， 基于深度学习的金融领域中文情感分析技术的研究，校级一般，结题
@@ -79,14 +83,16 @@
 
 - STITP，徐佳歆、吉欣仪、徐梦玲，基于半监督学习的KPI异常检测方法的研究，校级重点，结题
 
-- STITP，靳亚盛、陈楚恒、黄兴挺，云环境下服务系统的故障根因自动定位方法研究，校级一般，在研
+- STITP，靳亚盛、陈楚恒、黄兴挺，云环境下服务系统的故障根因自动定位方法研究，校级一般，结题为优秀
 
-- STITP，张海帅、陈志楷、昋旭东， 基于兴趣点挖掘的语义搜索引擎，校级一般，在研
+- STITP，张海帅、陈志楷、昋旭东， 基于兴趣点挖掘的语义搜索引擎，校级一般，结题
+
+-STITP，查凤霖，李康，李王有由，基于元学习和图神经网络的时序数据异常检测应用研究，校级一般，在研
 
 
 # 科研服务
 
-- AAAI、IJCAI、ISWC、COLING 、LREC等国际会议审稿人
+- ISWC、COLING 、LREC等国际会议程序委员
 
 - CCKS、NLPCC、CCL 等国内会议审稿人
 
