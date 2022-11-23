@@ -57,6 +57,8 @@
 
 12. Liyan Xu, **Kang Xu**, Yinchuan Qin, et al. TGAN-AD: Transformer-Based GAN for Anomaly Detection of Time Series Data[J]. Applied Sciences, 2022, 12(16): 8085. 
 
+13. **徐康**, 余胜男, 陈蕾, 王传栋. 基于语言学知识增强的自监督式图卷积网络的事件关系抽取方法 [J]. 数据分析与知识发现, 10.11925/infotech.2096-3467.2022.0602.
+
 # 专利
 
 - **徐康**，李熠轩（本科生），刘海琦（本科生），张晓伟（本科生），叶宁，王汝传，一种基于网络拓扑及实时告警的故障根因定位方法，CN112181758A
