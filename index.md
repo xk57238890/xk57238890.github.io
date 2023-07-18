@@ -4,7 +4,7 @@
 <img align="right" src="/kang.jpeg" width="35%"/>
 办公地点：南京邮电大学仙林校区计算机学科楼535            
      
-邮箱：kxu@njupt.edu.cn
+邮箱：kxu AT njupt dot edu dot cn
 
 主讲课程：《编译原理》、《人工智能》
 
