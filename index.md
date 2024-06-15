@@ -70,6 +70,8 @@
 16. **Kang Xu**, Yuan Li, Yixuan Li, et al. Masked Graph Neural Networks for Unsupervised Anomaly Detection in Multivariate Time Series[J]. Sensors, 2023, 23(17): 7552.
 
 17. **徐康**,蒋凌云,黄海平等.基于ChatGPT的留学生编译原理课程实践方法[J].软件导刊,2023,22(09):227-231.
+    
+18.Tongtong Wu; Weigang Wu; Xingyu Wang; **Kang Xu**, et.al. 2024. VersiCode: Towards Version-controllable Code Generation. arXiv preprint arXiv:2406.07411. 
 
 # 专利
 
