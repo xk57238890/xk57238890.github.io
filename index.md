@@ -77,6 +77,8 @@
 
 19. **Kang Xu**, Miqi Chen, Yifan Feng, Zhenjiang Dong. Advancing rule learning in knowledge graphs with structure-aware graph transformer[J]. Information Processing & Management, 2025, 62(2): 103976.
 
+20. **Kang Xu**, Yifan Feng, Qiandi Li, Zhenjiang Dong, Jianxiang Wei. Survey on terminology extraction from texts[J]. Journal of Big Data, 2025, 12(1): 1-40.
+
 # 专利
 
 - **徐康**，李熠轩（本科生），刘海琦（本科生），张晓伟（本科生），叶宁，王汝传，一种基于网络拓扑及实时告警的故障根因定位方法，CN112181758A
@@ -153,7 +155,7 @@
 
 # 社会服务
 
-- ISWC 2021、COLING2022/2024/2025、LREC2022、LREC-COLING 2024、IJCAI2024、ECAI2024、NLPCC2024等国际会议程序委员
+- ISWC 2021、COLING2022/2024/2025、LREC2022、LREC-COLING 2024、IJCAI2024/2025、ECAI2024/2025、NLPCC2024等国际会议程序委员
 
 - CCKS、NLPCC、CCL 等国内会议审稿人
 
