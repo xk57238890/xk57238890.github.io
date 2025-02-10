@@ -79,6 +79,8 @@
 
 20. **Kang Xu**, Yifan Feng, Qiandi Li, Zhenjiang Dong, Jianxiang Wei. Survey on terminology extraction from texts[J]. Journal of Big Data, 2025, 12(1): 1-40.
 
+21. **徐康**,惠志磊,董振江,蔡霈涵,陆立群. ChatGPT生成开放领域文本自动检测数据集构建. 中文信息学报. 2024, 38(12): 39-53
+
 # 专利
 
 - **徐康**，李熠轩（本科生），刘海琦（本科生），张晓伟（本科生），叶宁，王汝传，一种基于网络拓扑及实时告警的故障根因定位方法，CN112181758A
