@@ -157,9 +157,7 @@
 
 # 社会服务
 
-- ISWC 2021、COLING2022/2024/2025、LREC2022、LREC-COLING 2024、IJCAI2024/2025、ECAI2024/2025、NLPCC2024、IMLIP2024、CCL2024等国际会议程序委员
-
-- CCKS、NLPCC、CCL 等国内会议审稿人
+- ISWC 2021、COLING2022/2024/2025、LREC2022、LREC-COLING 2024、IJCAI2024/2025、ECAI2024/2025、NLPCC2024、IMLIP2024、CCL2024等国际\国内会议程序委员
 
 - World Wide Web Journal、Knowledge-based Systems、Data Mining and Knowledge Discovery、Knowledge and Information Systems、International Journal of Machine Learning and Cybernetics、Frontiers of Computer Science、Decision Support Systems 、Journal of Intelligent & Fuzzy Systems等期刊审稿人
 
