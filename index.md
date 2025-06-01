@@ -132,6 +132,8 @@
 
 - 指导本科生同学徐秉煜等获得第十九届“挑战杯”竞赛“揭榜挂帅”专项赛“大模型增强的高风险用户识别”比赛一等奖
 
+- 指导本科生同学谢宇轩等获得第十六届中国大学生服务外包创新创业大赛东部区域赛比赛一等奖
+
 - 指导李熠轩、刘海琦、张晓伟同学获得南京邮电大学第五届大学生软件设计大赛三等奖，参赛课题为“基于网络拓扑及告警的故障根因定位系统实现及算法研究”
 
 - 指导本科生林志诚获得2022年南京邮电大学本科优秀毕业设计（论文）
@@ -159,7 +161,7 @@
 
 - ISWC 2021、COLING2022/2024/2025、LREC2022、LREC-COLING 2024、IJCAI2024/2025、ECAI2024/2025、NLPCC2024、IMLIP2024、CCL2024等国际\国内会议程序委员
 
-- World Wide Web Journal、Knowledge-based Systems、Data Mining and Knowledge Discovery、Knowledge and Information Systems、International Journal of Machine Learning and Cybernetics、Frontiers of Computer Science、Decision Support Systems 、Journal of Intelligent & Fuzzy Systems等期刊审稿人
+- World Wide Web Journal、Knowledge-based Systems、Data Mining and Knowledge Discovery、Knowledge and Information Systems、International Journal of Machine Learning and Cybernetics、Frontiers of Computer Science、Decision Support Systems 、Journal of Intelligent & Fuzzy Systems 、《情报工程》、《数据分析与知识发现》等期刊审稿人
 
 - 2024年江苏省科技副总
 
