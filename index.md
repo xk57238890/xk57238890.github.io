@@ -81,6 +81,11 @@
 
 21. **徐康**,惠志磊,董振江,蔡霈涵,陆立群. ChatGPT生成开放领域文本自动检测数据集构建. 中文信息学报. 2024, 38(12): 39-53
 
+22. Sanli Zhu, Yuan Li, **Kang Xu**(通信作者) and Junjun Xu, "Partially-Supervised Graph Derivation Network With Meta-Learning for Time-Series Anomaly Detection," in IEEE Internet of Things Journal, vol. 12, no. 13, pp. 25472-25486, 1 July1, 2025, doi: 10.1109/JIOT.2025.3558273.
+
+
+
+
 # 专利
 
 - **徐康**，李熠轩（本科生），刘海琦（本科生），张晓伟（本科生），叶宁，王汝传，一种基于网络拓扑及实时告警的故障根因定位方法，CN112181758A
