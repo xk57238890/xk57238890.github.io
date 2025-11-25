@@ -1,7 +1,7 @@
 # 徐康 (Kang Xu)
 
 <!-- 图片右浮动 -->
-<img src="/kang.jpeg" align="right" width="180" style="margin-left: 20px; border-radius: 10px; box-shadow: 2px 2px 5px #888;">
+<img src="/徐康证件照.jpg" align="right" width="180" style="margin-left: 20px; border-radius: 10px; box-shadow: 2px 2px 5px #888;">
 
 **博士 / 讲师 / 硕士生导师**  
 **计算机科学与技术系主任**  
